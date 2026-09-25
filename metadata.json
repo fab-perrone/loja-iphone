@@ -1,0 +1,6 @@
+{
+  "name": "iPhone Store Premium - Loja de iPhones",
+  "description": "Loja especializada em iPhones novos e seminovos com compra segura no Mercado Livre, garantia oficial e atendimento VIP via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
